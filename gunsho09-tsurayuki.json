@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tsurayuki",
  "yomi": "きのつらゆきしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安前期",
+  "author": "紀貫之",
+  "desc": "『古今和歌集』撰者の一人、紀貫之の家集。延喜5年（905）の泉右大将の賀の屏風歌に始まり、屏風歌が大部分を占める。後半には贈答や晩年の歌を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -8136,6 +8141,6 @@
   "poems": 722,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
